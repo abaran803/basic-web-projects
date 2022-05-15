@@ -1,0 +1,30 @@
+p {
+    width: 25%;
+    border: 2px solid blue;
+    margin: 5px;
+    padding: 20px;
+    margin: 20px 30px;
+}
+
+table {
+    margin:30px;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+.verticle {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+table{
+    margin:auto;
+}

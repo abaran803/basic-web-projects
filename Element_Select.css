@@ -1,0 +1,28 @@
+* {
+    border: solid 1px rgb(0,150,70);
+}
+/* li {
+    color:blue;
+} */
+li:nth-of-type(3){
+    color:black;
+}
+ol li{
+    color:rgb(114, 22, 114);
+}
+ul li{
+    color:blue;
+}
+
+h1 strong{
+    color:red;
+}
+p+h3{
+    color:#003344;
+}
+/* li:nth-of-type(3){
+    color:black;
+} */
+body{
+    background:rgb(43, 92, 63);
+}
